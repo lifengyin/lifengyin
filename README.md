@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       1 hr 26 mins    ██████████▓░░░░░░░░░░░░░░   43.08 %
+TypeScript   1 hr 9 mins     ████████▓░░░░░░░░░░░░░░░░   34.66 %
+CSS          37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+```
+
 <!--END_SECTION:waka-->
