@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```txt
