@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SQL        22 mins               ███████████████████░░░░░░   75.99 %
-Astro      6 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-CSS        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+SQL   22 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
