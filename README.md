@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   32 mins               █████████▓░░░░░░░░░░░░░░░   39.09 %
+HTML         28 mins               ████████▓░░░░░░░░░░░░░░░░   34.43 %
+Python       8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Markdown     6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+CSS          3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
