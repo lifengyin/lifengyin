@@ -20,3 +20,4 @@ jobs:
           base: header, sections, repositories
           
           plugin_repositories: yes
+          featured_repositories: lifengyin/trivmaster-parser
