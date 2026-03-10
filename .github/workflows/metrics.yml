@@ -18,6 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_KEY }}
           filename: github-metrics.svg
           base: ""
+          commits_authoring: lifengyin, lifeng.yin.07@gmail.com, lifeng-yin@proton.me
           
           plugin_repositories: yes
           plugin_repositories_featured: lifengyin/trivmaster-parser, lifengyin/personal-website
