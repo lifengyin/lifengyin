@@ -7,9 +7,9 @@
 View my [portfolio](https://lifengyin.dev).
 
 Currently, I'm working on...
-* 🚀 Programming drones for Waterloo Aerial Robotics Group's [https://github.com/UWARG](Autonomy Team)
-* 🤖 [https://github.com/Yourself1011/StockNavalon](StockNavalon), an AI engine for the game *The Battle of Polytopia*
-* 💡 Creating [https://github.com/lifengyin/trivmaster-parser](Trivmaster), a parsing system and web app for real-time trivia
+* 🚀 Programming drones for Waterloo Aerial Robotics Group's (https://github.com/UWARG)[Autonomy Team]
+* 🤖 (https://github.com/Yourself1011/StockNavalon)[StockNavalon], an AI engine for the game *The Battle of Polytopia*
+* 💡 Creating (https://github.com/lifengyin/trivmaster-parser)[Trivmaster], a parsing system and web app for real-time trivia
 
 ## ⚙️ Skills
 
@@ -39,5 +39,5 @@ Text         44 mins               █▒░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-###### ...psst! see my old github: https://github.com/lifeng-yin. unfortunately i lost it due to 2fa, but i won't make that mistake again!
+###### ...psst! see my [https://github.com/lifeng-yin](old github). unfortunately i lost it due to 2fa, but i won't make that mistake again!
 
