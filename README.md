@@ -30,6 +30,7 @@ Currently, I'm working on...
 ##### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
 ```txt
 Python       7 hrs 9 mins          █████████████░░░░░░░░░░░░   51.34 %
 C++          2 hrs 49 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 %
@@ -37,6 +38,7 @@ JSON         1 hr 30 mins          ██▓░░░░░░░░░░░░
 Astro        51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
 Text         44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
+
 <!--END_SECTION:waka-->
 
 ###### ...psst! see my [old github](https://github.com/lifeng-yin). unfortunately i lost it due to 2fa, but i won't make that mistake again!
