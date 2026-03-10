@@ -39,5 +39,5 @@ Text         44 mins               █▒░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p style="color: #888">...psst! see my <a href="https://github.com/lifeng-yin">old github<a>. unfortunately i lost it due to 2fa, but i won't make that mistake again!</p>
+###### ...psst! see my [https://github.com/lifeng-yin](old github). unfortunately i lost it due to 2fa, but i won't make that mistake again!
 
