@@ -7,9 +7,9 @@
 View my [portfolio](https://lifengyin.dev).
 
 Currently, I'm working on...
-- 🚀 Programming drones for Waterloo Aerial Robotics Group (WARG)'s **Autonomy Team**
-- 🤖 **StockNavalon**, an AI engine for the game *The Battle of Polytopia*
-- 💡 Creating **Trivmaster**, a parsing system and web app for real-time trivia
+* 🚀 Programming drones for Waterloo Aerial Robotics Group's [https://github.com/UWARG](Autonomy Team)
+* 🤖 [https://github.com/Yourself1011/StockNavalon](StockNavalon), an AI engine for the game *The Battle of Polytopia*
+* 💡 Creating [https://github.com/lifengyin/trivmaster-parser](Trivmaster), a parsing system and web app for real-time trivia
 
 ## ⚙️ Skills
 
@@ -26,9 +26,7 @@ Currently, I'm working on...
 [<img src="https://skillicons.dev/icons?i=git" width="40" />](https://git-scm.com/) [<img src="https://skillicons.dev/icons?i=githubactions" width="40" />](https://github.com/features/actions) [<img src="https://skillicons.dev/icons?i=docker" width="40" />](https://www.docker.com/) [<img src="https://skillicons.dev/icons?i=postman" width="40" />](https://www.postman.com/) [<img src="https://skillicons.dev/icons?i=figma" width="40" />](https://www.figma.com/)
 
 ## 📊 Stats
-
 ![Metrics](https://github.com/lifengyin/lifengyin/blob/main/github-metrics.svg)
-
 ##### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
@@ -41,5 +39,5 @@ Text         44 mins               █▒░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
+<p style="color: #888">...psst! see my <a href="https://github.com/lifeng-yin">old github<a>. unfortunately i lost it due to 2fa, but i won't make that mistake again!</p>
 
