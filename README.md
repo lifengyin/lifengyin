@@ -39,5 +39,5 @@ Text         44 mins               █▒░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-###### ...psst! see my (old github)[https://github.com/lifeng-yin]. unfortunately i lost it due to 2fa, but i won't make that mistake again!
+###### ...psst! see my [old github](https://github.com/lifeng-yin). unfortunately i lost it due to 2fa, but i won't make that mistake again!
 
