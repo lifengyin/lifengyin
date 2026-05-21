@@ -32,8 +32,8 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 mins               ████████████████▒░░░░░░░░   65.23 %
-Other        6 mins                ████████▒░░░░░░░░░░░░░░░░   33.99 %
+TypeScript   18 mins               ███████████████████████▓░   94.74 %
+Other        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 Astro        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
