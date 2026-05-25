@@ -32,7 +32,11 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   11 mins               ██████████░░░░░░░░░░░░░░░   40.16 %
+Text         6 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+Markdown     5 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+JSON         3 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Vue          1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->
