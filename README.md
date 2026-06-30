@@ -32,11 +32,11 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 27 mins          █████████░░░░░░░░░░░░░░░░   36.48 %
-JavaScript   1 hr 6 mins           ███████░░░░░░░░░░░░░░░░░░   27.59 %
-Other        34 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Swift        25 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-YAML         10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+TypeScript   1 hr 6 mins           ████████▓░░░░░░░░░░░░░░░░   35.10 %
+JavaScript   1 hr 5 mins           ████████▓░░░░░░░░░░░░░░░░   34.46 %
+Swift        23 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Other        15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+YAML         10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
