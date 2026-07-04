@@ -32,9 +32,11 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   36 mins               ██████████████████████░░░   88.58 %
-Text         2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-JavaScript   2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+JavaScript   4 hrs 1 min           ███████████▒░░░░░░░░░░░░░   44.82 %
+TypeScript   3 hrs 2 mins          ████████▒░░░░░░░░░░░░░░░░   33.84 %
+TeX          1 hr 13 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+CSV          17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other        12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
