@@ -32,11 +32,11 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.48 %
-TeX          3 hrs 12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
-TypeScript   3 hrs 11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-Other        1 hr 44 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Text         39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Markdown      7 hrs 32 mins         ████████▒░░░░░░░░░░░░░░░░   32.97 %
+Other         4 hrs 1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+JavaScript    3 hrs                 ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+TypeScript    2 hrs 54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+TeX           2 hrs 19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
 ```
 
 <!--END_SECTION:waka-->
