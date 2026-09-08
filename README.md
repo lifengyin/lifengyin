@@ -32,11 +32,7 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 13 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
-Markdown     1 hr 2 mins           █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-Python       51 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
-CSS          44 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-JavaScript   29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
