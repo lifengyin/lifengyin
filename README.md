@@ -32,7 +32,11 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX           28 mins               ██████████▒░░░░░░░░░░░░░░   40.71 %
+Text          24 mins               █████████░░░░░░░░░░░░░░░░   36.00 %
+Markdown      10 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Image (png)   4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Other         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
