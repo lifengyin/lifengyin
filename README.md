@@ -32,8 +32,11 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 mins               █████████████████████████   99.68 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript    1 hr 35 mins          ██████████▒░░░░░░░░░░░░░░   40.99 %
+Markdown      58 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
+Text          49 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
+CSS           9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+HTML          7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
