@@ -32,11 +32,11 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       3 hrs 37 mins         █████████░░░░░░░░░░░░░░░░   36.22 %
-AGS Script     1 hr 56 mins          █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-Python         1 hr                  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Image (png)    47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Other          37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Markdown       3 hrs 20 mins         █████████████▓░░░░░░░░░░░   54.23 %
+Image (png)    34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Image (jpeg)   23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+AGS Script     21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+TeX            20 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:waka-->
