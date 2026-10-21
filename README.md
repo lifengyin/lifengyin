@@ -32,8 +32,8 @@ Currently, I'm working on...
 <!--START_SECTION:waka-->
 
 ```txt
-Other      25 hrs 15 mins        ███████████████████████▒░   93.34 %
-Markdown   1 hr 48 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Other      18 hrs 36 mins        ██████████████████████▓░░   91.17 %
+Markdown   1 hr 48 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 ```
 
 <!--END_SECTION:waka-->
